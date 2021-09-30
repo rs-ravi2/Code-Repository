@@ -1,2 +1,2 @@
-# Codes
-My solutions for various coding problems
+## Codes 
+Solution Codes.
