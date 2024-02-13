@@ -1,4 +1,4 @@
-# Code Repository
+# Code-Repository
 
 Welcome to my exciting code repository where I showcase my solutions to coding problems from various platforms.
 
